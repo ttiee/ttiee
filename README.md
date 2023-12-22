@@ -4,7 +4,7 @@
 
 ## About me
 
-- 😊 I'm Ttiee. You can call me Shenqi, Shrenqi or Tie.
+- 😊 I'm Ttiee. You can call me Shenqi, Fe or Tie.
 - 🏫 University: Soochow University.
 - 🎓 Major: Mechanical Engineering 🛠️
 - 🧠 Interested in coding, computers, mathematics, and physics 🧪.
