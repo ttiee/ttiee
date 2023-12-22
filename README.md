@@ -9,7 +9,7 @@
 - 🎓 Major: Mechanical Engineering 🛠️
 - 🧠 Interested in coding, computers, mathematics, and physics 🧪.
 - 📚 Currently learning: C/C++, Linux, Docker, Vim
-- 🏓 Hobbies: Table tennis, gymnastics 🤸‍♀️
+- 🏓 Hobbies: Table tennis, gymnastics 🤸‍♀️, and programming 💻.
 
 ## 🛠️ My Tech Stack
 
@@ -21,3 +21,13 @@
 - [ ] 📚 Plan to learn: Java, Lua, C#
 - [ ] 🎮 Plan to learn: Game development, Unity
 - [ ] 🖥️ Plan to learn: Microcontroller development
+
+## 📊 My Stats
+
+![Ttiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ttiee&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttiee&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- 📧 Email: [Hotmail](mailto:shrenqi@hotmail.com)
