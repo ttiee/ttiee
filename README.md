@@ -24,8 +24,9 @@
 
 ## 📊 My Stats
 
-![Ttiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ttiee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttiee&layout=compact&theme=radical)
+<!-- ![Ttiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ttiee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttiee&layout=compact&theme=radical) -->
+![Ttiee's github stats](https://github-readme-stats.vercel.app/api?username=ttiee&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttiee&theme=transparent&layout=compact)
 
 <a href="https://github.com/ttiee"><img src="contributions.svg"></a>
 
