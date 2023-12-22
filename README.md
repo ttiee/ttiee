@@ -25,8 +25,9 @@
 ## 📊 My Stats
 
 ![Ttiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ttiee&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttiee&layout=compact&theme=radical)
+
+<a href="https://github.com/ttiee"><img src="contributions.svg"></a>
 
 ## 📫 How to reach me
 
