@@ -9,7 +9,7 @@
 - 🎓 Major: Mechanical Engineering 🛠️
 - 🧠 Interested in coding, computers, mathematics, and physics 🧪.
 - 📚 Currently learning: C/C++, Linux, Docker, Vim
-- 🏓 Hobbies: Table tennis, gymnastics 🤸‍♀️, programming 💻, and photography 📷.
+- 🏓 Hobbies: Table tennis, Calisthenics 🤸‍♀️, programming 💻, and photography 📷.
 
 ## 🛠️ My Tech Stack
 
