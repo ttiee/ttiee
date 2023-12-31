@@ -18,7 +18,7 @@
 - [x] 📚 C
 - [x] 🌳 Git
 - [ ] 🐧 Currently learning: C/C++,📦 Docker, Linux，ROS
-- [ ] 📚 Plan to learn: Java, Lua, C#, Rust
+- [ ] 📚 Plan to learn: Java, Lua, C#, Rust, Go
 - [ ] 🎮 Plan to learn: Game development, Unity
 - [ ] 🖥️ Plan to learn: Microcontroller development
 
