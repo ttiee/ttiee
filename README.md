@@ -29,9 +29,9 @@
 ![Ttiee's github stats](https://github-readme-stats.vercel.app/api?username=ttiee&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttiee&theme=transparent&layout=compact&hide=html,css,javascript)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ttiee/ttiee/blob/grid-snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ttiee/ttiee/blob/grid-snake/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/ttiee/ttiee/blob/grid-snake/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttiee/ttiee/grid-snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ttiee/ttiee/grid-snake/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ttiee/ttiee/grid-snake/github-contribution-grid-snake.svg">
 </picture>
 
 ## 📫 How to reach me
