@@ -65,12 +65,17 @@ Mechanical Engineering undergraduate at Soochow University, building toward mobi
 - Patent work around robot path planning, risk-aware navigation, and mobile robot systems, including first-inventor authorization for a robot path-planning method.
 - Student technology association work, technical writing, and long-term robotics competition practice.
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ttiee&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&line_height=24" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiee&layout=compact&theme=transparent&hide_border=true&hide=html,css,javascript" />
+<img width="100%" alt="GitHub profile details" src="profile-summary-card-output/github/0-profile-details.svg" />
+
+<img width="49%" alt="Top languages by repository" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+<img width="49%" alt="Top languages by commit" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+
+<img width="49%" alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" />
+<img width="49%" alt="Productive time" src="profile-summary-card-output/github/4-productive-time.svg" />
 
 </div>
 
