@@ -32,6 +32,15 @@ Mechanical Engineering undergraduate at Soochow University, building toward mobi
 | World models | Exploring Dreamer-style agents, predictive latent dynamics, causal representation learning, intrinsic motivation, and curiosity-driven exploration. |
 | Robot systems | ROS-based delivery robot platform with SLAM, AMCL, DWA/TEB planning, QR/OCR perception, and manipulator control. |
 
+## Research Snapshot
+
+| Focus | Notes |
+| --- | --- |
+| Mainline | Deep learning, reinforcement learning, world models, and robot navigation. |
+| Models I am studying | CNN, U-Net, RNN, LSTM, GRU, Transformer, Attention, GNN-style relational models. |
+| RL direction | Model-based RL, Dreamer-style agents, PPO/MAPPO, policy/value learning, intrinsic motivation. |
+| Questions I care about | How agents build predictive latent states, discover causal structure, and explore with curiosity. |
+
 ## Tech Stack
 
 ### Robotics and Simulation
@@ -80,15 +89,26 @@ Mechanical Engineering undergraduate at Soochow University, building toward mobi
 
 <div align="center">
 
+<img height="165" alt="GitHub stats" src="https://github-stats-mu-livid.vercel.app/api?username=ttiee&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&line_height=24" />
+<img height="165" alt="Top languages" src="https://github-stats-mu-livid.vercel.app/api/top-langs/?username=ttiee&layout=compact&theme=transparent&hide_border=true&hide=html,css,javascript" />
+
+</div>
+
+<details>
+<summary>More GitHub summary cards</summary>
+
+<div align="center">
+
 <img width="100%" alt="GitHub profile details" src="profile-summary-card-output/github/0-profile-details.svg" />
+<img width="49%" alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" />
+<img width="49%" alt="Productive time" src="profile-summary-card-output/github/4-productive-time.svg" />
 
 <img width="49%" alt="Top languages by repository" src="profile-summary-card-output/github/1-repos-per-language.svg" />
 <img width="49%" alt="Top languages by commit" src="profile-summary-card-output/github/2-most-commit-language.svg" />
 
-<img width="49%" alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" />
-<img width="49%" alt="Productive time" src="profile-summary-card-output/github/4-productive-time.svg" />
-
 </div>
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttiee/ttiee/grid-snake/github-contribution-grid-snake-dark.svg">
