@@ -4,7 +4,7 @@
 
 # Hi, I'm Tie Tong / 仝铁
 
-Mechanical Engineering undergraduate at Soochow University, building toward mobile robot navigation, embodied intelligence, and AI-assisted developer workflows.
+Mechanical Engineering undergraduate at Soochow University, building toward mobile robot navigation, embodied intelligence, deep learning, reinforcement learning, world models, and AI-assisted developer workflows.
 
 [![Blog](https://img.shields.io/badge/Blog-saytt.cc-0A66C2?style=flat-square)](https://saytt.cc)
 [![Email](https://img.shields.io/badge/Email-sayttiee%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sayttiee@gmail.com)
@@ -15,7 +15,10 @@ Mechanical Engineering undergraduate at Soochow University, building toward mobi
 ## About
 
 - I work on **robot navigation, multimodal perception, deep reinforcement learning, and embodied intelligence systems**.
-- My current research interests include proactive navigation in dynamic environments, social robot navigation, and multi-agent coordination.
+- I am strongly interested in **deep learning and reinforcement learning**, and I am now studying network architectures and training methods in depth.
+- I am especially fascinated by **world models** and Dreamer-style model-based RL, where agents learn latent dynamics, imagine future trajectories, discover causal structure, and develop curiosity-driven exploration.
+- My current research interests include proactive navigation in dynamic environments, social robot navigation, multi-agent coordination, and learning-based decision making.
+- I am learning and experimenting with CNNs, U-Net, RNN/LSTM/GRU models, Transformers, attention mechanisms, GNN-style relational modeling, policy/value networks, PPO, and MAPPO.
 - I like projects that close the loop from **modeling and simulation** to **ROS integration, real robot debugging, and experimental analysis**.
 - Outside research code, I build small tools around developer automation, personal workflows, Linux desktop configuration, and technical writing.
 
@@ -25,8 +28,9 @@ Mechanical Engineering undergraduate at Soochow University, building toward mobi
 | --- | --- |
 | Proactive robot navigation | Temporal traversability prediction, risk-aware A*, dynamic-door navigation, and topology-aware planning experiments. |
 | Social navigation | Interaction-aware SVO modeling, crowd navigation with deep reinforcement learning, and lightweight reproducible simulation environments. |
+| Deep learning and RL | Studying neural network structures, representation learning, sequence prediction, attention modules, policy optimization, and multi-agent reinforcement learning. |
+| World models | Exploring Dreamer-style agents, predictive latent dynamics, causal representation learning, intrinsic motivation, and curiosity-driven exploration. |
 | Robot systems | ROS-based delivery robot platform with SLAM, AMCL, DWA/TEB planning, QR/OCR perception, and manipulator control. |
-| Agent tooling | Bringing local coding agents into chat and remote workflows through NoneBot, Telegram, and Codex CLI integrations. |
 
 ## Tech Stack
 
@@ -42,9 +46,16 @@ Mechanical Engineering undergraduate at Soochow University, building toward mobi
 ### Machine Learning and Algorithms
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-555555?style=flat-square)
+![U-Net](https://img.shields.io/badge/U--Net-555555?style=flat-square)
+![RNN](https://img.shields.io/badge/RNN-6F42C1?style=flat-square)
 ![LSTM](https://img.shields.io/badge/LSTM-6F42C1?style=flat-square)
+![GRU](https://img.shields.io/badge/GRU-6F42C1?style=flat-square)
 ![Transformer](https://img.shields.io/badge/Transformer%20%2F%20Attention-6F42C1?style=flat-square)
+![World Models](https://img.shields.io/badge/World%20Models-0E7C7B?style=flat-square)
+![Model-Based RL](https://img.shields.io/badge/Model--Based%20RL-0E7C7B?style=flat-square)
 ![PPO](https://img.shields.io/badge/PPO%20%2F%20MAPPO-0E7C7B?style=flat-square)
+![Deep RL](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-0E7C7B?style=flat-square)
 ![Optimization](https://img.shields.io/badge/Optimization-555555?style=flat-square)
 
 ### Engineering
